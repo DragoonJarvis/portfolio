@@ -11,7 +11,7 @@ I am a Graphic Designer at Florida Southern College with over four years of expe
 </p>
 
 
-<h3>
 
-[My Projects](./projects.md) </h3>
+
+[My Projects](./projects.md) 
 
