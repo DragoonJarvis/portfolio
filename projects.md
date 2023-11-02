@@ -3,5 +3,5 @@
 
 [Spiral](./Spiral/)
 
-<iframe src="./Spiral"></iframe>
-<iframe height="500">
+<iframe src="./Spiral" width="500" height="500">
+</iframe>
