@@ -1,1 +1,3 @@
-##Spiral
+## Spiral Project
+
+[Spiral] (./Spiral)
