@@ -3,4 +3,4 @@
 
 [Spiral](./Spiral/)
 
-<iframe src="./spiral"></iframe>
+<iframe src="./Spiral"></iframe>
