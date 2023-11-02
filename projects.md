@@ -1,5 +1,6 @@
-# Spiral Project
+## Projects
 
+# Spiral Project
 
 [Spiral](./Spiral/)
 
